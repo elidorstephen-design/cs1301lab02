@@ -1,0 +1,35 @@
+{
+    "chart_title": "My Weekly Music Listening",
+    "data_points": [
+        {
+            "Genre": "Hip-Hop",
+            "Hours Per Week": 13,
+            "Rating": 8
+        },
+        {
+            "Genre": "R&B",
+            "Hours Per Week": 9,
+            "Rating": 7
+        },
+        {
+            "Genre": "Pop",
+            "Hours Per Week": 6,
+            "Rating": 6
+        },
+        {
+            "Genre": "Country",
+            "Hours Per Week": 5,
+            "Rating": 7
+        },
+        {
+            "Genre": "Afrobeats",
+            "Hours Per Week": 1,
+            "Rating": 5
+        },
+        {
+            "Genre": "Gospel",
+            "Hours Per Week": 4,
+            "Rating": 6
+        }
+    ]
+}
